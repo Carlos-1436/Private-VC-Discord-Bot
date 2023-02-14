@@ -1,0 +1,12 @@
+# files
+.vscode
+.env
+.env.local
+package-lock.json
+yarn.lock
+database.sqlite
+discloud.config
+
+# folders
+build
+node_modules
